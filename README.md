@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepal4972&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nepal4972" alt="nepal4972" /></a> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&theme=dracula&locale=en&layout=compact" alt="nepal4972" /></p>
