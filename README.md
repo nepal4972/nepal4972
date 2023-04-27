@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepal4972&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
 
+![Metrics](https://metrics.lecoq.io/nepal4972?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKatmandu&config.display=large)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&theme=dracula&locale=en&layout=compact" alt="nepal4972" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=dark&locale=en" alt="nepal4972" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=darcula&locale=en" alt="nepal4972" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
