@@ -8,6 +8,8 @@
 
 ![nepal4972's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=radical)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=radical" alt="nepal4972" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=darcula&locale=en" alt="nepal4972" /></p>
 
 <h3 align="left">Connect with me:</h3>
