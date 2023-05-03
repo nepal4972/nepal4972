@@ -2,7 +2,6 @@
 <h3 align="center">Started Learning Offensive Security.</h3>
 <h3 align="center">**Bash Scripting**</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nepal4972&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
 
