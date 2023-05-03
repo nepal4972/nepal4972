@@ -30,3 +30,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/nepal4972](https://github.com/nepal4972)
 
 - 📫 How to reach me **nepal4972@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact" alt="nepal4972" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&locale=en" alt="nepal4972" /></p>
