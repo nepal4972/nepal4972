@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact alt="nepal4972" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
 
 ![nepal4972's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=radical)
 
