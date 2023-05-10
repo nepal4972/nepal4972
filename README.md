@@ -8,7 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
 
-![nepal4972's GitHub stats](github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nepal4972&&show_icons=true&theme=dark)
+https://github-readme-stats.vercel.app/api?username=nepal4972&show_icons=true&theme=transparent
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
