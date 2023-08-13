@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&theme=radical&show_icons=true&locale=en" alt="nepal4972" /></p>
 
-<p><script src="https://tryhackme.com/badge/410783"></script></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/mrnepal4972.png" alt="TryHackMe"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
