@@ -29,4 +29,4 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nepal4972](https://github.com/nepal4972)
 
-- 📫 How to reach me **nepal4972@gmail.com**
+- 📫 How to reach me **nepal4972@gmail.com, sandnnepal4972@gmail.com**
