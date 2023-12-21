@@ -4,7 +4,7 @@
 <h3 align="center">**Bash Scripting**</h3>
 
 
-[![trophy](https://github-profile-trophy-arasgungore.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
+[![trophy]([https://github-profile-trophy-arasgungore.vercel.app/?username=nepal4972](https://github-profile-trophy.vercel.app/?username=USERNAME)&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
 
