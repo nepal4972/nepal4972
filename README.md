@@ -4,7 +4,7 @@
 <h3 align="center">**Bash Scripting**</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saugatxnepal&theme=dracula)](https://github.com/saugatxnepal/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugatxnepal&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
 
@@ -27,6 +27,6 @@
 
 - 🔭 I’m currently Learning **Offensive Security**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/nepal4972](https://github.com/nepal4972)
+- 👨‍💻 All of my projects are available at [https://github.com/saugatxnepal](https://github.com/nepal4972)
 
 - 📫 How to reach me **saugatxnepal@gmail.com**
