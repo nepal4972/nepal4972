@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Saugat Nepal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nepal4972&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatxnepal&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
 <h3 align="center">Started Learning Offensive Security.</h3>
 <h3 align="center">**Bash Scripting**</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugatxnepal&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&theme=radical&show_icons=true&locale=en" alt="nepal4972" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugatxnepal&theme=radical&show_icons=true&locale=en" alt="nepal4972" /></p>
 
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/YOm3n.png" alt="Your Image Badge" /></p>
 
